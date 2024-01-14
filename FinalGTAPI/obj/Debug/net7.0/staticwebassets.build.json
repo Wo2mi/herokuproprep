@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3PyCUqkNI0k2uzitdyZVncsqAmW83uCmGIgyrSjrzBc=",
+  "Source": "FinalGTAPI",
+  "BasePath": "_content/FinalGTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinalGTAPI\\wwwroot",
+      "Source": "FinalGTAPI",
+      "ContentRoot": "D:\\Thuctaplam\\DATN\\finalGT-main\\API\\FinalGTAPI\\wwwroot\\",
+      "BasePath": "_content/FinalGTAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
